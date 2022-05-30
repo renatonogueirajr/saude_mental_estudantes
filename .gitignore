@@ -1,0 +1,5 @@
+# Dataset utilizado
+*.csv
+
+# Autosave Jupyter
+.ipynb_checkpoints/
